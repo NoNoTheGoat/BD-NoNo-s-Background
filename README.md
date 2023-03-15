@@ -18,4 +18,6 @@ BetterDiscord is a simple extension of the Discord app that allows user to custo
 
 > [Red 'n Black](https://betterdiscord.app/theme/Red%20%27n%20Black)
 
-##3
+
+
+> ![NoNo](https://media.discordapp.net/attachments/1078832551776493579/1084032327014953021/image_2023-03-11_003424817_250x250.png?width=200&height=200)
